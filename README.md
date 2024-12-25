@@ -1,7 +1,7 @@
 # README: FML Challenge 2 - Supervised Learning
 
 ## Description
-Ce projet est une participation au **FML Challenge 2** qui porte sur l'apprentissage supervisé. Il vise à analyser un jeu de données, effectuer de l'ingénierie des caractéristiques, et construire des modèles de machine learning afin de résoudre un problème précis lié aux URL de phishing.
+Ce projet vise à analyser un jeu de données, effectuer de l'ingénierie des caractéristiques, et construire des modèles de machine learning afin de résoudre un problème précis lié aux URL de phishing.
 
 ## Contenu du Notebook
 
