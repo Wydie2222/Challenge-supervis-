@@ -45,7 +45,6 @@ Le notebook est organisé en plusieurs sections :
 ## Organisation des fichiers
 
 - `Challenge2.ipynb` : Le notebook principal avec toutes les analyses et les modèles.
-- `requirements.txt` : Liste des dépendances Python nécessaires.
 
 ## Auteurs
 Ce projet a été réalisé par une équipe dans le cadre du challenge:
