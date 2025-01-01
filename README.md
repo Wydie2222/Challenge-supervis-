@@ -36,11 +36,7 @@ Le notebook est organisé en plusieurs sections :
 ## Utilisation
 
 1. Clonez le dépôt ou téléchargez le fichier du notebook.
-2. Installez les bibliothèques nécessaires :
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Lancez le notebook dans Jupyter ou un éditeur compatible comme VSCode.
+2. Lancez le notebook dans Jupyter ou un éditeur compatible comme VSCode.
 
 ## Organisation des fichiers
 
